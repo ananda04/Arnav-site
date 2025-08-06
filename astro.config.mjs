@@ -1,5 +1,5 @@
 import { defineConfig } from 'astro/config';
-import tailwindcss from '@tailwindcss/vite';
+import tailwindcss from 'tailwindcss';
 
 export default defineConfig({
   site: 'https://ananda04.github.io/Arnav-site/',
