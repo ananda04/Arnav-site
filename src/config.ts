@@ -36,6 +36,16 @@ export const siteConfig = {
   ],
   experience: [
     {
+      company: "DruvStar - Data and Cyber Defense",
+      title: "Data Analytics Engineer Intern",
+      dataRange: "May 2025 - Present",
+      bullets:[
+        "Focused on improving response time and usability in security operations through advanced language modeling and adaptive querying systems",
+        "Developed a Retrieval-Augmented Generation (RAG) system using AWS Bedrock to streamline and accelerate cybersecurity incident reporting",
+        "Engineered a natural language interface to generate PostgreSQL 17.5 queries, leveraging reinforcement learning with Gymnasium 1.2",
+      ],
+    },
+    {
       company: "Duke University - Dr. Richard Fair - Digital Microfluidics Lab",
       title: "Research Assistant",
       dateRange: "Jan 2024 - Present",
