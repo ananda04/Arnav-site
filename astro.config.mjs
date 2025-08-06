@@ -7,6 +7,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
     site:'https://ananda04.github.io/',
-    base:'Arnav-site'
+    base:'/Arnav-site/'
   },
 });
