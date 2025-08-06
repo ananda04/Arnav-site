@@ -1,10 +1,16 @@
-// @ts-check
-import { defineConfig } from "astro/config";
-import tailwindcss from "@astrojs/tailwind";
+import { defineConfig } from 'astro/config';
+import tailwindcss from 'tailwindcss';
+import autoprefixer from 'autoprefixer';
 
-// https://astro.build/config
 export default defineConfig({
   site: 'https://ananda04.github.io/Arnav-site/',
   base: '/Arnav-site/',
-  integrations: [tailwind()],
+  vite: {
+    css: {
+      postcss: {
+        plugins: [tailwindcss, autoprefixer],
+      },
+    },
+  },
 });
+
