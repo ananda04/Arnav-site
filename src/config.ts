@@ -66,8 +66,8 @@ export const siteConfig = {
       ],
     },
     {
-      company: Duke Unviersity - Introduction to Electrical Engineering,
-      title: Teaching Assitant,
+      company:"Duke Unviersity - Introduction to Electrical Engineering(ECE 110)",
+      title: Officer Hour / Grader Teaching Assitant",
       dateRange: "Dec 2024 - June 2025",
       bullets:[
 	"Strengthened technical understanding by teaching core concepts such as circuit analysis, op-amps, and digital logic to students with diverse academic backgrounds."
