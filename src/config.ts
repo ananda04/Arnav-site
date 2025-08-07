@@ -70,11 +70,11 @@ export const siteConfig = {
       title: Officer Hour / Grader Teaching Assitant",
       dateRange: "Dec 2024 - June 2025",
       bullets:[
-	"Strengthened technical understanding by teaching core concepts such as circuit analysis, op-amps, and digital logic to students with diverse academic backgrounds."
-	"Developed communication and mentorship skills through one-on-one support during office hours, lab guidance, and feedback on assignments."
-	"Learned how to break down complex topics into approachable explanations, reinforcing my own learning while helping others build confidence in engineering."
+	"Strengthened technical understanding by teaching core concepts such as circuit analysis, op-amps, and digital logic to students with diverse academic backgrounds.",
+	"Developed communication and mentorship skills through one-on-one support during office hours, lab guidance, and feedback on assignments.",
+	"Learned how to break down complex topics into approachable explanations, reinforcing my own learning while helping others build confidence in engineering.",
       ],
-    }
+    },
   ],
   education: [
     {
