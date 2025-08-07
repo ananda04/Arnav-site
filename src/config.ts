@@ -56,7 +56,7 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Duke University - Dr. Joel Greenberg Lab - BioRespiratory & Precision Pathology Center",
+      company: "Duke University - Dr. Joel Greenberg Lab - Quadridox Inc. -  BioRespiratory & Precision Pathology Center",
       title: "Research Assistant",
       dateRange: "Aug 2021 - June 2024",
       bullets: [
@@ -65,6 +65,16 @@ export const siteConfig = {
         "Published research in <a href='https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12925/129250I/X-ray-diffraction-imaging-of-glioblastoma-and-ductal-carcinoma-in/10.1117/12.3006600.short#_=_' target='_blank' rel='noopener noreferrer' class='text-blue-600 hover:text-blue-800 underline'>SPIE Medical: X-ray diffraction imaging of glioblastoma and ductal carcinoma in-situ</a>",
       ],
     },
+    {
+      company: Duke Unviersity - Introduction to Electrical Engineering,
+      title: Teaching Assitant,
+      dateRange: "Dec 2024 - June 2025",
+      bullets:[
+	"Strengthened technical understanding by teaching core concepts such as circuit analysis, op-amps, and digital logic to students with diverse academic backgrounds."
+	"Developed communication and mentorship skills through one-on-one support during office hours, lab guidance, and feedback on assignments."
+	"Learned how to break down complex topics into approachable explanations, reinforcing my own learning while helping others build confidence in engineering."
+      ],
+    }
   ],
   education: [
     {
