@@ -38,7 +38,7 @@ export const siteConfig = {
     {
       company: "DruvStar - Data and Cyber Defense",
       title: "Data Analytics Engineer Intern",
-      dataRange: "May 2025 - Present",
+      dateRange: "May 2025 - Present",
       bullets:[
         "Focused on improving response time and usability in security operations through advanced language modeling and adaptive querying systems",
         "Developed a Retrieval-Augmented Generation (RAG) system using AWS Bedrock to streamline and accelerate cybersecurity incident reporting",
@@ -67,7 +67,7 @@ export const siteConfig = {
     },
     {
       company:"Duke Unviersity - Introduction to Electrical Engineering(ECE 110)",
-      title: Officer Hour / Grader Teaching Assitant",
+      title: "Officer Hour / Grader Teaching Assitant",
       dateRange: "Dec 2024 - June 2025",
       bullets:[
 	"Strengthened technical understanding by teaching core concepts such as circuit analysis, op-amps, and digital logic to students with diverse academic backgrounds.",
