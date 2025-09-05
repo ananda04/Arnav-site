@@ -10,7 +10,8 @@ export const siteConfig = {
   },
   aboutMe:
     "I've always been someone who loves to build, tinker, and ask questions—usually the kind that start with \"what if?\" or \"why not?\" Whether it was trying to recreate Dr. Octopus's tentacles from Spider-Man or designing a tennis ball launcher from scratch using spare parts, I've never been afraid to chase an idea just because it sounded a little out there. Over the years, that curiosity has turned into a passion for engineering and research. I've built everything from embedded systems for underwater communication to in-culture hood testing devices for cancer drugs, and I've found just as much joy in debugging a stubborn line of code as I have in soldering together a circuit. I'm still learning, still experimenting, and still trying to turn strange questions into real solutions—and that's what keeps me excited every day.",
-  skills: ["Verilog", "C", "MatLab", "Vivado", "GTKwave", "Valgrind", "Logisim", "CAD"],
+ aboutImage: "/images/aboutephoto.jpg",
+ skills: ["Verilog", "C", "MatLab", "Vivado", "GTKwave", "Valgrind", "Logisim", "CAD"],
   projects: [
     {
       name: "GyroSynth",
