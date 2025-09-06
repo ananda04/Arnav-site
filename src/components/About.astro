@@ -3,7 +3,6 @@ import { siteConfig } from "../config";
 ---
 
 <section id="about" class="p-8 sm:p-12 md:p-16 lg:p-24">
-  <!-- Heading + underline -->
   <div class="mb-8">
     <h2 class="text-3xl sm:text-4xl md:text-5xl xl:text-7xl font-bold text-gray-900 text-left">
       About Me
@@ -14,22 +13,18 @@ import { siteConfig } from "../config";
     ></div>
   </div>
 
-  <!-- Grid for text + image -->
   <div class="grid grid-cols-1 md:grid-cols-2 items-start gap-6">
-    <!-- Paragraph text flush left -->
     <p class="text-left text-lg sm:text-xl md:text-2xl leading-relaxed text-gray-600">
       {siteConfig.aboutMe}
     </p>
 
-    <!-- Image on the right -->
     <img
-      src="/public/aboutmephoto.jpg"
+      src={Astro.resolve("/aboutmephoto.jpg")}
       alt="About Me"
       class="w-full h-auto object-cover rounded-2xl shadow-md"
     />
   </div>
 
-  <!-- Skills -->
   <div class="pt-4 flex flex-wrap gap-3">
     {siteConfig.skills.map((skill) => (
       <span class="px-3 sm:px-4 py-1.5 sm:py-2 bg-gray-100 text-gray-800 rounded-full text-sm sm:text-base md:text-lg font-medium hover:bg-gray-200 transition-colors duration-200">
