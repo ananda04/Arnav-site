@@ -14,6 +14,11 @@ export const siteConfig = {
  skills: ["Verilog", "C", "MatLab", "Vivado", "GTKwave", "Valgrind", "Logisim", "CAD"],
   projects: [
     {
+     name: "Fast Hardware Multiplier and Divider",
+     description: "Designed a Booths and Wallace Tree Multiplier, and a non-restoring division and Array divider to be able to execute multiply and divide instructions. Designed testbenches to validate cycle times and accuracy of each algorithm ",
+     skills: ["Verilog", "GTKWave"]
+    },
+    {
       name: "GyroSynth",
       description:
         "Designed a gyroscope-based digital audio synthesizer on the NEXYS A7 FPGA, using Verilog to map real-time hand motion from an ADXL362 accelerometer to pitch and volume control. Implemented SPI communication, PWM-based sound generation, and a memory-mapped processor interface for interactive, gesture-controlled music synthesis",
