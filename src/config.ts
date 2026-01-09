@@ -19,6 +19,12 @@ export const siteConfig = {
      skills: ["Verilog", "GTKWave"]
     },
     {
+     name: "History of Neurocomputing",
+     description: "A brief history of neurocomputing, going over topics in neuroscience and the neuron, early development in the field with Microelectrode Arrays (MEAs), the stimociever, and transistor level circuits to mimic neurons, and modern neurocomputing, covering companies like cortical labs, final spark, and IBM, and their pursuit to create more power efficient hardware. I also delved into the software side of neurocomputing going over the creation of ANNs, CNNs, SNNs, and other deep neural networks",
+     link: "https://docs.google.com/document/d/1lsaG2UAtXWWkgG3Yzk31dG-s5mrEhYuiMDzVN2MrDJE/edit?usp=sharing",
+     skills: ["Neurocomputing", "Machine Learning","Research"]
+    },
+    {
       name: "GyroSynth",
       description:
         "Designed a gyroscope-based digital audio synthesizer on the NEXYS A7 FPGA, using Verilog to map real-time hand motion from an ADXL362 accelerometer to pitch and volume control. Implemented SPI communication, PWM-based sound generation, and a memory-mapped processor interface for interactive, gesture-controlled music synthesis",
