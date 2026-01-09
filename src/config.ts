@@ -39,9 +39,9 @@ export const siteConfig = {
    {
       company: "Duke University - Digital Systems (ECE350)",
       title: "Office Hour / Greader Teaching Assitant",
-      dateRange: "Jan 2026 - Present"
-      bullets: [
-	"Conducting office hours in digital logic design, Finite State Machine implementation, and FPGA synthesis"
+      dateRange: "Jan 2026 - Present",
+      bullets:[
+	"Conducting office hours in digital logic design, Finite State Machine implementation, and FPGA synthesis",
 	"Assisting students with debugging complex Verilog modules for a 5-stage pipelined and bypassed MIPS processor, including designing Functional Units (ALU, load/store unit, register files), and multipliers and dividers"
     ],
    },
