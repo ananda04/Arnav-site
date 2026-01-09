@@ -117,18 +117,20 @@ export const siteConfig = {
         "Focus on hardware design and systems programming",
       ],
       coursework: [
+	"Advanced Computer Architecture 2",
         "Digital Systems",
         "Computer Architecture", 
         "Introduction to Microelectronics",
-        "Probability",
+	"Microelectronics for Circuits"
+        "Advanced Algorithm Design",
         "Signals and Systems",
         "Operating Systems",
         "Fields and Waves",
         "Elements of Machine Learning"
       ],
       extracurricular: [
-        "Undergraduate research in X-ray Diffraction and Microfluidics",
-        "Teacher assistant for introductory electrical engineering course"
+        "Undergraduate research in X-ray Diffraction, Microfluidics, and Quantum Computing",
+        "Teacher assistant for introductory electrical engineering course and digital systems"
       ],
     },
   ],
