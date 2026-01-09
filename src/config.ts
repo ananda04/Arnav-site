@@ -36,10 +36,35 @@ export const siteConfig = {
     },
   ],
   experience: [
-    {
+   {
+      company: "Duke University - Digital Systems (ECE350)",
+      title: "Office Hour / Greader Teaching Assitant",
+      dateRange: "Jan 2026 - Present"
+      bullets: [
+	"Conducting office hours in digital logic design, Finite State Machine implementation, and FPGA synthesis"
+	"Assisting students with debugging complex Verilog modules for a 5-stage pipelined and bypassed MIPS processor, including designing Functional Units (ALU, load/store unit, register files), and multipliers and dividers"
+    ],
+   },
+   {
+     company: "Duke Quantum Center",
+      title: "Research Intern",
+      dateRange: "Jan 2026 - Present",
+      bullets:[
+        "Designing control systems for Qsim quantum system Arbitrary Waveform Generator (AWG) for laser modulation"
+      ],
+   },
+   {
+    company: "OWL Integrations",
+      title: "Intern",
+      dateRange: "Aug 2025 - Present",
+      bullets:[
+        "Designing a multi-node IoT mesh tracking system enabling real-time localization of new entrants using Radio Frequency (RF) communication and GPS across a defined area"
+      ],
+   },
+   {
       company: "DruvStar - Data and Cyber Defense",
       title: "Data Analytics Engineer Intern",
-      dateRange: "May 2025 - Present",
+      dateRange: "May 2025 - Aug 2025",
       bullets:[
         "Focused on improving response time and usability in security operations through advanced language modeling and adaptive querying systems",
         "Developed a Retrieval-Augmented Generation (RAG) system using AWS Bedrock to streamline and accelerate cybersecurity incident reporting",
