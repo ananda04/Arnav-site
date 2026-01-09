@@ -127,8 +127,7 @@ export const siteConfig = {
         "Operating Systems",
         "Fields and Waves",
         "Elements of Machine Learning",
-        "Probability",
-"checking if this is workingnnnngksdngfkjsndfgl;ask"
+        "Probability"
       ],
       extracurricular: [
         "Undergraduate research in X-ray Diffraction, Microfluidics, and Quantum Computing",
