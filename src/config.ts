@@ -121,12 +121,13 @@ export const siteConfig = {
         "Digital Systems",
         "Computer Architecture", 
         "Introduction to Microelectronics",
-	"Microelectronics for Circuits"
+	"Microelectronics for Circuits",
         "Advanced Algorithm Design",
         "Signals and Systems",
         "Operating Systems",
         "Fields and Waves",
-        "Elements of Machine Learning"
+        "Elements of Machine Learning",
+        "Probability"
       ],
       extracurricular: [
         "Undergraduate research in X-ray Diffraction, Microfluidics, and Quantum Computing",
